@@ -1,0 +1,4 @@
+AuthName "Autorisation demandée"
+AuthType Basic
+AuthUserFile "C:\Program Files\Zend\Apache2\htdocs\front\application\modules\Wsclient\.htpasswd"
+Require valid-user
